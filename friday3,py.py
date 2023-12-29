@@ -73,7 +73,7 @@ if __name__ == "__main__":
 # Send Email Function
   
 
- # Logic for Jarvis
+ # Logic for Friday
   if 'wikipedia' in query:
     speak('Searching Wikipedia...')
     query = query.replace("wikipedia", "")
